@@ -44,8 +44,8 @@
                 <div class="welcomeTitle"><?php echo "Welcome : ".$username; ?></div>
                 <div class="tooltip">Contact Us
                     <span class="tooltiptext">
-                        <b>Address:</b> Greater Noida, Uttar Pradesh 201308<br>
-                        <b>Phone:</b> 0120 4444532
+                        <b>Address:</b> A/P Ashta Near Annasaheb Dange Collage of Engineering and Technology, Ashta in Maharashtra<br>
+                        <b>Phone:</b> 02341-2258626
 
                     </span>
                 </div>
